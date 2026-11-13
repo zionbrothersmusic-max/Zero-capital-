@@ -918,9 +918,9 @@ function buildBloggerInnerHtml(headerImageUrl: string): string {
 
         <div class="sgn-hero-grid">
           <div>
-            <h1 class="sgn-h1">Want to Start a Business But Don't Have Enough Money? Here Is How to Begin Small.</h1>
+            h1< class="sgn-h1">Want to Start a Business But Don't Have Enough Money? Here Is How to Begin Small.</h1>
             <p class="sgn-lead">
-              You do not need a shop, a loan, or huge capital to take your first step. <strong>THE ZERO-CAPITAL BUSINESS STARTER GUIDE</strong> gives you practical business ideas, clear ways to find paying customers, and a simple 30-day roadmap so you can start with what you already have.
+              You don't need a big shop, a business loan, or thousands of naira to get started. <strong>THE ZERO-CAPITAL BUSINESS STARTER GUIDE</strong> shows you 50 practical business ideas you can start with little or no capital, how to find your first paying customers, and a simple 30-day roadmap to help you take action.
             </p>
 
             <ul class="sgn-hero-bullets">
