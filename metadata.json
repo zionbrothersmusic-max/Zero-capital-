@@ -1,0 +1,6 @@
+{
+  "name": "Student Guide Nigeria — Zero-Capital Business Starter Guide",
+  "description": "Blogger-compatible landing page for The Zero-Capital Business Starter Guide by Student Guide Nigeria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
